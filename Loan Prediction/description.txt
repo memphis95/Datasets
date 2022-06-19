@@ -1,0 +1,14 @@
+13 attributes
+1. Loan_ID -> A unique Loan id 
+2. Gender -> Male/Female
+3. Married -> Yes/No
+4. Dependents -> number of the person dependent on the client
+5. Education -> Applicant Education(Graduate/ Undergraduate)
+6. Self_employed -> Yes/No
+7. ApplicantIncome -> Applicant Income 
+8. Coapplicant income -> Coapplicant income 
+9. LoanAmount -> loan amount in thousands
+10. laon_Amount_Term -> term of laon in thousands
+11. Credit_History -> credit history meets guidelines
+12. Property_Area -> Urban/Semi and Rural
+13. Laon_Status -> Loan Approved (Y/N)
